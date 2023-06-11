@@ -1,4 +1,4 @@
-# CalendarApp created by Jetpack Compose 
+# CalendarApp created by using Jetpack Compose 
 
 A new Kotlin project.
 
