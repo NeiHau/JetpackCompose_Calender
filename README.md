@@ -6,4 +6,4 @@ A new Kotlin project.
 
 This project is a starting point for a Android Kotlin application.
 
-This project is work in progress.
+This project is working in progress.
